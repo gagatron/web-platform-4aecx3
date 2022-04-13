@@ -1,0 +1,27 @@
+body {
+  background: rgb(60, 42, 158);
+  margin: 0;
+}
+
+.xx {
+     display: flex;
+     flex-direction: row;
+     
+     background-color: aquamarine;
+}
+
+header {
+  background-color: green;
+}
+
+.col1 {
+     padding-left: 20%;
+     padding-right: 20%;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.center {
+  background-color: beige;
+  text-align: center;
+  align-items: center;
+}
